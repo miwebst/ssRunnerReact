@@ -41,7 +41,7 @@ class FetchDemo extends React.Component {
           </a>
           <a 
             className="App-link"
-            href="https://cerulean-iguana-839.azurestaticwebsites.net/.auth/login/aad"
+            href="/.auth/login/aad"
           >
           Log in with Azure AD
           </a>
